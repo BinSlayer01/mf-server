@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_131\jre\bin\java.exe" -Xmx2048M -Xms2048M -jar minecraft_server.1.11.2.jar nogui
